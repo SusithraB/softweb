@@ -581,7 +581,7 @@ people.html
       </div>
     </div>
     <footer>
-      <center>Designed and Developed by SANDHIYA SREE B (212223220093)</center>
+      <center>Designed and Developed by SUSITHRA.B(212223220113)</center>
     </footer>
 </body>
 </html>
@@ -831,9 +831,9 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<susii/Screenshot 2024-05-06 013551.png>)
-![alt text](<susii/Screenshot 2024-05-06 013605.png>)
-![alt text](<susii/Screenshot 2024-05-06 013624.png>)
-![alt text](<susii/Screenshot 2024-05-06 013635.png>)
+![alt text](susii/01.png)
+![alt text](susii/02.png)
+![alt text](susii/03.png)
+![alt text](susii/04.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
