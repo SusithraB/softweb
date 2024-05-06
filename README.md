@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:06.05.2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -831,6 +831,7 @@ contact.html
 ```
 
 ## OUTPUT:
+<<<<<<< HEAD
 ![alt text](susii/01.png)
 ![alt text](susii/02.png)
 ![alt text](susii/03.png)
