@@ -831,9 +831,9 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<susii/Screenshot 2024-05-06 013551.png>)
-![alt text](<susii/Screenshot 2024-05-06 013605.png>)
-![alt text](<susii/Screenshot 2024-05-06 013624.png>)
-![alt text](<susii/Screenshot 2024-05-06 013635.png>)
+![image](https://github.com/SusithraB/softweb/assets/146347839/c97b410e-3d2e-4038-b800-5a7e3e63e12e)
+![image](https://github.com/SusithraB/softweb/assets/146347839/748cd92b-9ba2-4321-a052-606eb6be4363)
+![image](https://github.com/SusithraB/softweb/assets/146347839/71af3d5c-d2ad-4ca9-be69-bc866addcef2)
+![image](https://github.com/SusithraB/softweb/assets/146347839/408d2d20-c2e7-4b50-907d-8a724dfec964)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
