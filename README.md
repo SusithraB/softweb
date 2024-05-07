@@ -831,10 +831,10 @@ contact.html
 ```
 
 ## OUTPUT:
-<<<<<<< HEAD
-![alt text](susii/01.png)
-![alt text](susii/02.png)
-![alt text](susii/03.png)
-![alt text](susii/04.png)
+![image](https://github.com/SusithraB/softweb/assets/146347839/dacb766a-8987-4c99-8ef7-b61f705b178f)
+![image](https://github.com/SusithraB/softweb/assets/146347839/a2d91bdb-610c-4d09-9e02-e445777ccf52)
+![image](https://github.com/SusithraB/softweb/assets/146347839/d6ea0a1e-281f-4910-8ab5-715c28b0a6ae)
+![image](https://github.com/SusithraB/softweb/assets/146347839/4c1eb318-2dd3-4b02-9ff2-78d73b2ce38e)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
